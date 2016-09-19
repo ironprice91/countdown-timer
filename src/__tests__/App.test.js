@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom';
 import App from '../App';
 
 // example test
-test("adds 1 + 2 to equal 3", () => {
+test("EXAMPLE TEST: adds 1 + 2 to equal 3", () => {
 	function sum(a, b) {
 		return a + b;
 	}
